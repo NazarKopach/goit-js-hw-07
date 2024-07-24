@@ -173,7 +173,7 @@ span {
   background-color: #4E75FF;
 }
 
-#controls button[data-create] {
+#controls button[data-create]:hover {
   background-color: #6C8CFF;
 }
 
